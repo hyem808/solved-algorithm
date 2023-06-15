@@ -4,7 +4,6 @@ import java.util.*;
 
 /**
  * 블랙잭
- * 
  */
 
 public class BlackJack_2798 {
